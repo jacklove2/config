@@ -9,7 +9,7 @@ spring:
       server:
         git:
           # 配置gitee的仓库地址
-          uri: https://gitee.com/StevenBlake/conf.git
+          uri: https://github.com/jacklove2/config.git
 # Eureka服务中心配置
 eureka:
   client:
